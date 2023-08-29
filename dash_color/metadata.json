@@ -110,7 +110,7 @@
         "required": false,
         "description": "",
         "defaultValue": {
-          "value": "\"220px\"",
+          "value": "\"200px\"",
           "computed": false
         }
       },

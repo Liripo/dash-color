@@ -113,7 +113,7 @@ DashColor.defaultProps = {
     width: "1.2em",
     height: "1.2em",
     presetColors: [],
-    Pickerwidth: "220px"
+    Pickerwidth: "200px"
 };
 
 // 组件参数校验规则

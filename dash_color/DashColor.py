@@ -16,7 +16,7 @@ Keyword arguments:
 - id (string; optional):
     The ID used to identify this component in Dash callbacks.
 
-- Pickerwidth (string; default "220px")
+- Pickerwidth (string; default "200px")
 
 - disableAlpha (boolean; optional)
 
