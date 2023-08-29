@@ -1,0 +1,11 @@
+include dash_color/dash_color.min.js
+include dash_color/dash_color.min.js.map
+include dash_color/async-*.js
+include dash_color/async-*.js.map
+include dash_color/*-shared.js
+include dash_color/*-shared.js.map
+include dash_color/metadata.json
+include dash_color/package-info.json
+include README.md
+include LICENSE
+include package.json
